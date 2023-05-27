@@ -1,4 +1,4 @@
-# Encryption System by MR Mafia
+
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-<h2 align="center">  STRONG ENCRYPTION TOOL </h2>
+<h2 align="center">  STRONG ENCRYPTION SYSTEM BY MR MAFIA </h2>
 
  
 
