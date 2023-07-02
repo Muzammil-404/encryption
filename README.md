@@ -1,124 +1,25 @@
+<h2>__CREATED BY MR MAFIA__ </h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Compile+Your+Python+File+Enjoy%F0%9F%A4%9F)](https://git.io/typing-svg)
 
- 
+```
+pkg update && pkg upgrade
+pkg install git
+pkg install python
+rm -rf encryption
+git clone https://github.com/Muzammil-404/encryption
+cd encryption
+python enc.py
+```
 
- 
+___This Tools is Free Enjoy___</br>
 
- 
+## SCREENSHOT :
+<br>
+<p align="center">
+<img src="__enc__/SK.jpg"/>
+</p>
 
-<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAFIA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/fahadhussain007)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-<h2 align="center">  STRONG ENCRYPTION SYSTEM BY MR MAFIA </h2>
-
- 
-
- 
-
- 
-
- 
-
- 
-
-## <b>installation</b>
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-- `pkg update`
-
- 
-
-- `pkg upgrade`
-
- 
-
-- `pkg install git`
-
- 
-
-- `pkg install python`
-
- 
-
-- `pip install requests`
-
- 
-
-- `pip install mechanize`
-
- 
-
-- `rm -rf encryption`
-
- 
-
-- `git clone --depth=1 https://github.com/Muzammil-404/encryption`
-
- 
-
-- `cd encryption`
-
- 
-
-- `python enc.py`
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- ___This Tools is Free For Public___</br>
-
- 
-
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
 
  
 
