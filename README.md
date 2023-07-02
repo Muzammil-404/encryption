@@ -1,6 +1,6 @@
 <h2>__CREATED BY MR MAFIA__ </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Compile+Your+Python+File+Enjoy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000FF&background=31FF9400&width=435&lines=Compile+Your+Python+File+Enjoy)](https://git.io/typing-svg)
 
 ```
 pkg update && pkg upgrade
@@ -12,6 +12,7 @@ cd encryption
 python enc.py
 ```
 
+___This Tools is Free Enjoy___</br>
 
 ## SCREENSHOT :
 <br>
