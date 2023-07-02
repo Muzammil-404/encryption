@@ -12,7 +12,6 @@ cd encryption
 python enc.py
 ```
 
-___This Tools is Free Enjoy___</br>
 
 ## SCREENSHOT :
 <br>
